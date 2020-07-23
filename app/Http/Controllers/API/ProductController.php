@@ -47,7 +47,7 @@ class ProductController extends APIBaseController
             'product_barcode' => 'required',
             'product_qty' => 'required',
             'product_price' => 'required',
-            'product_image' => 'required',
+            'product_image' => 'required', 
             'product_category' => 'required',
             'product_status' => 'required'
         ]);
